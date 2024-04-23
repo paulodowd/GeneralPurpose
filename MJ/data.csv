@@ -1,4 +1,4 @@
-index,robot ,trial,scenario,time,left_sep,right_sep,y_pos,vel
+index,Robot,trial,scenario,time,left_sep,right_sep,y_pos,vel
 0,left,1,s_-5_5,0,-5,5,0,0
 1,left,1,s_-5_5,1,-5,5,0,0.06
 2,left,1,s_-5_5,2,-5,5,0,0.11
